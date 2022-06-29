@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "lNKTi1aWviPHEb1cDCOzyYWmBlzeN5n/12RkIXBC4yE=",
+  "Source": "Bot",
+  "BasePath": "_content/Bot",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Bot\\wwwroot",
+      "Source": "Bot",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\Wise\\Bot\\wwwroot\\",
+      "BasePath": "_content/Bot",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\USER\\Desktop\\Wise\\Bot\\wwwroot\\default.htm",
+      "SourceId": "Bot",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\Wise\\Bot\\wwwroot\\",
+      "BasePath": "_content/Bot",
+      "RelativePath": "default.htm",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\default.htm"
+    }
+  ]
+}
